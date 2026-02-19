@@ -1,4 +1,4 @@
-- UML, Pattern - Глушков Михаил
+- UML, Pattern - Глушков Михаил ( https://github.com/ElectroPea )
 - БД           - Петров Роман
 - C#         - Глушков Михаил
 - ADO.NET      - Байрамкулов Данила
