@@ -1,0 +1,17 @@
+ AddUser  Добавить Пользователя 
+ AddCategory  Добавить Категорию 
+ AddProduct  Добавить Продукт 
+ AssignCategory  Присвоить Категорию 
+ UsersWithOrders  Пользователи С Заказами 
+ TopUsers  Топ Пользователей 
+ ProductsByCategory  Продукты По Категории 
+ SearchProducts  Поиск Продуктов 
+ UserOrders  Заказы Пользователя 
+ ProductsPaged  Товары Порционно 
+ TopProducts  Топ Товаров 
+ CountByCategories  Количество По Категориям 
+ CountTwoCategories  Количество Двух Категорий 
+ CategoriesWithSubcategories  Категории С Подкатегориями 
+ UserInfo  Информация О Пользователях
+
+
