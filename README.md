@@ -4,6 +4,6 @@
 - БД           - Петров Роман
 - C#         - Глушков Михаил
 - ADO.NET      - Байрамкулов Данила (https://github.com/Belzebub786)
-- NP           - Осоргин Тимур
+- NP           - Осоргин Тимур (https://github.com/OsorginTimur)
 - WPF/WF       - Орлов Эдуард (https://github.com/Lisenich)
 - GitHub       - Петров Роман
